@@ -1,0 +1,700 @@
+.header {
+    display: flex;
+    padding: 25px 125px;
+    align-items: center;
+    margin-bottom: 45px;
+}
+
+.header .right-side {
+    display: flex;
+    align-items: center;
+    margin-left: auto;
+}
+
+.header .right-side .active-link {
+    font-size: 16px;
+    font-weight: bold;
+    text-decoration: none;
+    color: #22343D;
+    margin: auto 12px;
+}
+
+.header .right-side .normal-link {
+    font-size: 16px;
+    text-decoration: none;
+    color: #22343D;
+    margin: auto 12px;
+}
+
+.header .right-side .sign-in-btn {
+    padding: 10px 25px;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    color: #173A56;
+    background-color: white;
+    border: 1px solid #BCD0E5;
+    border-radius: 8px;
+    margin: auto 12px;
+}
+
+.header .right-side .sign-up-btn {
+    padding: 10px 25px;
+    background-color: #02897A;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    margin: auto 12px;
+}
+
+.header .right-side .frame-img {
+    margin-left: 12px;
+}
+
+.section-one {
+    display: flex;
+}
+
+.section-one .right-side {
+    margin-left: auto;
+    margin-right: 350px;
+}
+
+.section-one .left-side {
+    display: flex;
+    flex-direction: column;
+    margin-right: 120px;
+    margin-left: 120px;
+
+}
+
+.section-one .left-side .title-text {
+    font-weight: bold;
+    font-size: 40px;
+    line-height: 60px;
+    letter-spacing: -0.03em;
+    text-align: left;
+
+}
+
+.section-one .left-side .normal-text {
+    font-size: 20px;
+    line-height: 32px;
+    letter-spacing: -0.03em;
+    text-align: left;
+}
+
+.section-one .left-side .group {
+    display: flex;
+}
+
+.section-one .left-side .join-now {
+    display: flex;
+    width: 470px;
+    top: 264px;
+    border-radius: 100px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+
+.section-one .left-side .email-adress {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 16px;
+    margin-left: 20px;
+}
+
+.section-one .left-side .join-now-btn {
+    height: 40px;
+    width: 85px;
+    font-size: 16px;
+    font-weight: bold;
+    color: white;
+    background-color: #02897A;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: 10px;
+    margin-top: 4px;
+    border: none;
+}
+
+.section-one .left-side .big-group {
+    margin-left: 15px;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 21px;
+    color: #22343D;
+}
+
+.section-two .clients {
+    align-items: center;
+    margin-left: 800px;
+    width: 229px;
+    height: 60px;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.section-two .logos {
+    margin-left: 500px;
+    margin-right: 300px;
+    align-items: center;
+}
+
+.section-two .logos .airbnb {
+    margin-right: 50px;
+    
+}
+
+.section-two .logos .google {
+    margin-right: 50px;
+}
+
+.section-two .logos .microsoft {
+    margin-right: 50px;
+}
+
+.div-ajutator {
+    font-size: 40px;
+    font-weight: bold;
+    margin-left: 400px;
+    margin-top: 200px;
+    color: #22343D;
+}
+
+.section-three {
+    display: flex;
+}
+
+.section-three .left-side .right-side {
+    width: 1075px;
+    height: 537px;
+    top: 1183px;
+    left: 139px;
+    border-radius: 100px;
+}
+
+.section-three .left-side {
+    max-width: 550px;
+    max-height: 600px;
+}
+
+.section-three .left-side .sus {
+    height: 550px;
+    width: 500px;
+    margin-left: 400px;
+    margin-top: 60px;
+}
+
+.section-three .right-side .enterpreneur {
+    margin-left: 600px;
+    margin-top: 75px;
+}
+
+.section-three .right-side .accountants {
+    margin-left: 600px;
+    margin-top: 75px;
+}
+
+.section-three .right-side .universities {
+    margin-left: 600px;
+    margin-top: 75px;
+}
+
+.section-three .right-side .normal-text {
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #22343D;
+}
+
+.titlul-separat .main-title {
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 100px;
+    font-size: 34px;
+    font-weight: bold;
+    line-height: 51px;
+}
+
+.section-four {
+    display: flex;
+}
+
+.section-four .left-side {
+    margin-left: 300px;
+}
+
+.section-four .right-side {
+    margin-left: 300px;
+    margin-right: 200px;
+}
+
+.section-four .right-side .text-pas {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #22343D;
+}
+
+.section-four .right-side .titlu-produs {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    color: #22343D;
+}
+
+.section-four .right-side .normal-text {
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+}
+
+.section-five {
+    display: flex;
+    margin-top: 200px;
+}
+
+.section-five .left-side {
+    margin-left: 250px;
+}
+
+.section-five .right-side {
+    margin-right: 300px;
+}
+
+.section-five .left-side .text-pasuldoi {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #22343D;
+}
+
+.section-five .left-side .titlu-completion {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    color: #22343D;;
+}
+
+.section-six {
+    display: flex;
+    margin-top: 200px;
+}
+
+.section-six .left-side {
+    margin-left: 200px;
+}
+
+.section-six .right-side {
+    margin-left: 150px;
+}
+
+.section-six .right-side .text-pasultrei {
+    font-size: 20px;
+    font-weight: bold;
+    line-height: 30px;
+    color: #22343D;
+}
+
+.section-six .right-side .titlu-pay {
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 36px;
+    color: #22343D;
+}
+
+.titlul-separatdoi .master-title {
+    text-align: center;
+    font-size: 32px;
+    font-weight: bold;
+    line-height: 48px;
+    text-align: center;
+    margin-top: 120px;
+    color: #22343D;
+}
+
+.section-seven {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    border: 1px solid #DDDDDD;
+    border-radius: 20px;
+    width: 750px;
+    height: 600px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.section-seven .message .title-text {
+    font-size: 24px;
+    font-weight: bold;
+    line-height: 33px;
+    color: #252B42;
+}
+
+.section-seven .yourname {
+    border: 1px solid #DDDDDD;
+    border-radius: 100px;
+    width: 500px;
+}
+
+.section-seven .yourname .yourname-text {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #22343D;
+    margin-right: 380px;
+}
+
+.section-seven .youremail {
+    border: 1px solid #DDDDDD;
+    border-radius: 100px;
+    width: 500px;
+    margin-top: 40px;
+}
+
+.section-seven .youremail .youremail-text {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #22343D;
+    margin-right: 380px;
+}
+
+.section-seven .yourmessage {
+    border: 1px solid #DDDDDD;
+    width: 500px;
+    margin-top: 40px;
+    height: 180px;
+}
+
+.section-seven .yourmessage .yourmessage-text {
+    font-size: 15px;
+    font-weight: 400;
+    line-height: 16px;
+    color: #22343D;
+    margin-right: 380px;
+}
+
+.section-seven .send-button .send-btn {
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 16px;
+    margin-top: 70px;
+    margin-right: 450px;
+    color: #FFFFFF;
+    background-color: #02897A;
+    border: none;
+    border-radius: 35px;
+    width: 120px;
+    height: 50px;
+}
+
+.footer .footer-container {
+    display: flex;
+    align-items: center;
+    margin-top: 106px;
+}
+
+.footer .footer-container .logo-footer {
+    margin-bottom: 24px;
+    margin-left: 150px;
+}
+
+.footer .social-icons {
+    margin-left: 150px;
+}
+
+.footer .social-icons .mid-icon {
+    margin-left: 16px;
+    margin-right: 16px;
+}
+
+.footer .copyrights-divider {
+    text-align: center;
+    margin: 10px auto 45px auto;
+    margin-top: 95px;
+    margin-bottom: 20px;
+}
+
+.footer .copyrights-divider .copyrights {
+    font-size: 16px;
+    color: #22343D;
+}
+
+.footer .quicklinks-divider .footer-text {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.footer .quicklinks-divider {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-left: 350px;
+}
+
+.footer .quicklinks-divider .quicklink-action {
+    font-size: 16px;
+    color: #22343D;
+    margin-bottom: 12px;
+    text-decoration: none;
+}
+
+.footer .newsletter-divider {
+    display: flex;
+    flex-direction: column;
+    margin-left: auto;
+    margin-right: 167px;
+}
+
+.footer .newsletter-divider .footer-text {
+    font-size: 18px;
+    font-weight: bold;
+    color: #22343D;
+    margin-bottom: 35px;
+}
+
+.footer .newsletter-divider .input-text {
+    border: 1px solid #BCD0E5;
+    width: 325px;
+    height: 40px;
+}
+
+.footer .newsletter-divider .sign-up-btn {
+    font-size: 16px;
+    font-weight: bold;
+    color: #FFFFFF;
+    margin-top: 21px;
+    margin-bottom: 10px;
+    background-color: #02897A;
+    width: 135px;
+    height: 40px;
+    border: none;
+    border-radius: 5px;
+}
+
+.mobile-header {
+    display: none;
+}
+
+.mobile-right-one {
+    display: none;
+}
+
+.mobile-secfive-left {
+    display: none;
+}
+
+.mobile-secfive-right {
+    display: none;
+}
+
+@media only screen and (max-width: 768px) {
+    .header {
+        display: none;
+    }
+
+    .mobile-header {
+        display: flex;
+        margin-left: 50px;
+    }
+
+    .mobile-header .mobile-product {
+        margin-left: 15px;
+    }
+
+    .mobile-header .hamburger {
+        margin-left: 600px;
+    }
+
+    .section-one {
+        display: flex;
+        flex-direction: column;
+    }
+
+    .section-one .left-side .title-text {
+        width: 350px;
+        margin-left: 250px;
+        margin-top: 75px;
+    }
+
+    .section-one .left-side .normal-text {
+        width: 353px;
+        margin-left: 250px;
+    }
+
+    .section-one .left-side .join-now {
+        margin-left: 250px;
+        width: 346px;
+    }
+
+    .section-one .left-side .group {
+        margin-left: 250px;
+        width: 287px;
+    }
+
+    .section-one .right-side {
+        display: none;
+    }
+
+    .mobile-right-one {
+        display: flex;
+        margin-left: 350px;
+        margin-top: 90px;
+        width: 400px;
+    }
+
+    .section-two .clients {
+        margin-left: 415px;
+        margin-top: 150px;
+    }
+
+    .section-two .logos {
+        width: 500px;
+        margin-left: 350px;
+    }
+
+    .section-two .logos .microsoft {
+        margin-top: 70px;
+    }
+
+    .div-ajutator .title-text {
+        width: 343px;
+    }
+
+    .section-three {
+        flex-direction: column;
+    }
+
+    .section-three .right-side .enterpreneur {
+        width: 360px;
+    }
+
+    .section-three .right-side .accountants {
+        width: 360px;
+    }
+
+    .section-three .right-side .universities {
+        width: 360px;
+    }
+
+    .titlul-separat {
+        margin-left: 500px;
+        width: 320px;
+    }
+
+    .section-four {
+        flex-direction: column;
+    }
+
+    .section-four .left-side {
+        margin-left: 400px;
+    }
+
+    .section-four .right-side {
+        width: 360px;
+        margin-left: 500px;
+        margin-top: 85px;
+    }
+
+    .section-five {
+        display: none;
+    }
+
+    .mobile-secfive-left {
+        display: flex;
+        margin-left: 400px;
+        margin-top: 75px;
+    }
+
+    .mobile-secfive-right {
+        display: flex;
+        flex-direction: column;
+        margin-left: 500px;
+        width: 360px;
+        margin-top: 75px;
+    }
+
+    .mobile-secfive-right .text-pasuldoi {
+        font-size: 20px;
+        font-weight: bold;
+        line-height: 30px;
+        color: #22343D;
+    }
+
+    .mobile-secfive-right .titlu-completion {
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 36px;
+        color: #22343D;;
+    }
+
+    .mobile-secfive-right .normal-text {
+        font-size: 16px;
+        font-weight: 400;
+        line-height: 28px;
+    }
+
+    .section-six {
+        flex-direction: column;
+    }
+
+    .section-six .left-side {
+        margin-left: 400px;
+    }
+
+    .section-six .right-side {
+        margin-left: 500px;
+        width: 350px;
+        margin-top: 75px;
+    }
+
+    .titlul-separatdoi {
+        margin-left: 480px;
+        width: 351px;
+    }
+
+    .section-seven {
+        margin-left: 280px;
+        margin-top: 105px;
+    }
+
+    .footer .footer-container {
+        flex-direction: column;
+    }
+
+    .footer .footer-container .logo-footer {
+        margin-left: 950px;
+    }
+
+    .footer .footer-container .social-icons {
+        margin-left: 950px;
+        margin-top: 30px;
+    }
+
+    .footer .footer-container .quicklinks-divider {
+        margin-left: 950px;
+        width: 120px;
+        margin-top: 35px;
+    }
+
+    .footer .footer-container .newsletter-divider {
+        margin-left: 1100px;
+        width: 300px;
+    }
+
+    .footer .footer-container .sign-up-btn {
+        margin-left: 100px;
+    }
+
+    .footer .copyrights-divider {
+        margin-left: 465px;
+        width: 361px;
+        margin-top: 40px;
+    }
+}
+
+

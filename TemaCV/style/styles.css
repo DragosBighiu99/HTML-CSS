@@ -1,0 +1,259 @@
+.blue {
+    display: flex;
+    background-color: #005889;
+    color: #005889;
+}
+
+.section-one .yourname-surname {
+    display: flex;
+    margin-left: 48px;
+    font-size: 50px;
+    font-weight: bold;
+    margin-top: 18px;
+}
+
+.section-one .yourname-surname .surname {
+    color: #005889;
+    margin-left: 20px;
+}
+
+.section-one .pincode {
+    display: flex;
+    margin-left: 85px;
+}
+
+.section-one .pincode .pin-place {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-one .pincode .mobile-number {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 15px;
+}
+
+.section-one .email {
+    display: flex;
+    margin-left: 85px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-one .email .linkedin {
+    margin-left: 10px;
+    color: #005889;
+}
+
+.section-two .objective .title-text {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-two .objective .normal-obj {
+    margin-left: 110px;
+    font-size: 20px;
+}
+
+.section-two .experience .title-text {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-two .experience .may {
+    margin-left: 110px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .experience .position {
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-two .experience .pos-plc {
+    display: flex;
+}
+
+.section-two .experience .place {
+    margin-left: 10px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .education .title-text {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-two .education .batch-one {
+    margin-left: 110px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .edu-pl {
+    display: flex;
+    margin-left: 120px;
+}
+
+.section-two .edu-pl .edu-one {
+    color: #005889;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .edu-pl .pl-one {
+    font-size: 20px;
+    font-weight: bold;
+    margin-left: 5px;
+}
+
+.section-two .education .course-one {
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .same-two {
+    margin-top: 70px;
+}
+
+.section-two .same-two .batch-two {
+    margin-left: 110px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .same-two .course-two {
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .same-three {
+    margin-top: 70px;
+}
+
+.section-two .same-three .batch-three {
+    margin-left: 110px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-two .same-three .course-three {
+    margin-left: 120px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.section-three .title-text {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-three .skills {
+    display: flex;
+    margin-left: 100px;
+}
+
+.section-three .skills .mecha {
+    margin-left: 250px;
+}
+
+.section-three .skills .other {
+    margin-left: 375px;
+}
+
+.section-three .skills .column-title {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.section-three .skills .normal-text {
+    margin-left: 70px;
+    font-size: 20px;
+    color: black;
+}
+
+.section-four .title-text {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-four .pos-abt {
+    margin-left: 100px;
+}
+
+.section-four .pos-abt .pos {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.section-four .pos-abt .abt {
+    font-size: 22px;
+}
+
+.section-five .title-text {
+    margin-left: 48px;
+    font-size: 35px;
+    font-weight: bold;
+    color: #005889;
+}
+
+.section-five .crazy-one {
+    display: flex;
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+.section-five .crazy-one .ach {
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.section-five .crazy-two {
+    display: flex;
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+.section-five .crazy-two .ach {
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.section-five .crazy-three {
+    display: flex;
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+.section-five .crazy-three .ach {
+    margin-left: 5px;
+    font-weight: bold;
+}
+
+.section-five .crazy-four {
+    display: flex;
+    margin-left: 120px;
+    font-size: 25px;
+}
+
+.section-five .crazy-four .ach {
+    margin-left: 5px;
+    font-weight: bold;
+}
